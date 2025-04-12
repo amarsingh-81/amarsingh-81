@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Amar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding"width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZudnAzdHRjYzd6OTFmOHh3ZmgxMmIzcmhmY2E5NWttYTN2NHRrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsingh-81&label=Profile%20views&color=0e75b6&style=flat" alt="amarsingh-81" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amar-singh-917309311/](https://www.linkedin.com/in/amar-singh-917309311/)
