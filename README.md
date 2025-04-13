@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amar-singh-917309311/](https://www.linkedin.com/in/amar-singh-917309311/)
 
-- 💬 Ask me about ** Now I am pursing MCA from GLA University, Mathura,**
+- 💬 Now I am pursing MCA from GLA University, Mathura,
 
-- 📫 How to reach me **amarsingh202002@gmail.com**
+- 📫  **amarsingh202002@gmail.com**
 
 - ⚡ Fun fact **I am Funny😎🤩**
 
