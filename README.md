@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amar-singh-917309311/](https://www.linkedin.com/in/amar-singh-917309311/)
 
-- 💬 Ask me about **As a rising junior in Computer Science at Mangalayatan University, I'm committed to advancing my skills in web development. With proficiency in data structures, HTML, and CSS, alongside experience in IDEs like VS Code and Dev C++, I'm poised to excel. I'm eager to leverage my knowledge of Core Java, C++, and C, along with expertise in web technologies like JavaScript, CSS. My dedication to the Greedy approach ensures optimal solutions, complemented by strong professional traits such as adaptability, attention to detail, communication, problem-solving, and leadership. and Now I am pursing MCA from GLA University, Mathura,**
+- 💬 Ask me about ** Now I am pursing MCA from GLA University, Mathura,**
 
 - 📫 How to reach me **amarsingh202002@gmail.com**
 
