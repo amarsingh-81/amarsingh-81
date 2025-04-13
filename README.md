@@ -1,4 +1,4 @@
-
+![logo](https://github.com/amarsingh-81/amarsingh-81/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Amar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
