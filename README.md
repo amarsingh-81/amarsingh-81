@@ -1,7 +1,7 @@
 ![logo](https://github.com/amarsingh-81/amarsingh-81/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Amar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk2eHEwZzRxcmg5MHhia2t2NDRrbWxucnZnaTdxaXBjeThoMzhxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVma3UwcmcwY3l4dnJyc3hiaWVtYnZkbG5ta2Y1amU2Z3FpY3dnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsingh-81&label=Profile%20views&color=0e75b6&style=flat" alt="amarsingh-81" /> </p>
